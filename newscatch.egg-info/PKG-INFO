@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: newscatch
+Version: 0.1
+Requires-Python: >=3.8
+Requires-Dist: scrapy>=2.11.0
+Requires-Dist: selenium>=4.15.0
+Requires-Dist: webdriver_manager>=4.0.0

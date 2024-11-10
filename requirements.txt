@@ -1,0 +1,24 @@
+# 爬虫相关
+scrapy>=2.11.0
+requests>=2.31.0
+selenium>=4.15.2
+webdriver_manager>=4.0.1
+
+# 文本处理相关
+jieba>=0.42.1
+nltk>=3.8.1
+gensim==4.3.1
+numpy==1.24.3
+
+# 模板引擎
+jinja2>=3.1.3
+
+# 数据处理
+python-dateutil>=2.8.2
+
+# 添加到现有依赖中
+scrapy-user-agents>=0.1.1
+fake-useragent>=1.1.1
+
+# 在现有依赖中添加
+msedge-selenium-tools>=3.141.4
